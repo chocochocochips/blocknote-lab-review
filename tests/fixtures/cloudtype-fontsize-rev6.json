@@ -1,0 +1,21 @@
+{
+  "manifest": {
+    "format": "blocknote-project",
+    "formatVersion": 1,
+    "documentId": "c689e65b-24b6-44d4-bc2a-17e50cabe750",
+    "revision": 6,
+    "title": "P2 v1.1 HTTPS 합성 검수",
+    "createdAt": "2026-11-02T08:51:26.668Z",
+    "updatedAt": "2026-11-02T08:57:38.756Z",
+    "modifiedAt": "2026-11-02T08:51:26.668Z",
+    "archived": false,
+    "files": {
+      "document.json": "4901eb240d542d622b2b630c2885c633fe7308b61733a01e5e650b5ae19ad99a",
+      "history.jsonl": "ee6d7cb5f189ce1fca99b208bf35f212d1f94fa72c97c17855b05dd424c91f9d"
+    }
+  },
+  "files": {
+    "document.json": "{\n  \"id\": \"c689e65b-24b6-44d4-bc2a-17e50cabe750\",\n  \"revision\": 6,\n  \"updatedAt\": \"2026-11-02T08:57:38.756Z\",\n  \"blocks\": [\n    {\n      \"id\": \"99f6fd13-20c3-44f9-9e35-9268ae6731d4\",\n      \"type\": \"paragraph\",\n      \"props\": {\n        \"backgroundColor\": \"default\",\n        \"textColor\": \"default\",\n        \"textAlignment\": \"left\"\n      },\n      \"content\": [\n        {\n          \"type\": \"text\",\n          \"text\": \"둘째\",\n          \"styles\": {\n            \"fontSize\": \"21\"\n          }\n        },\n        {\n          \"type\": \"text\",\n          \"text\": \" 문단: 이동 순서를 확인합니다.\",\n          \"styles\": {\n            \"fontSize\": \"20\"\n          }\n        }\n      ],\n      \"children\": []\n    },\n    {\n      \"id\": \"2285cf73-bff9-4ff1-b33a-d256d01958a5\",\n      \"type\": \"paragraph\",\n      \"props\": {\n        \"backgroundColor\": \"default\",\n        \"textColor\": \"default\",\n        \"textAlignment\": \"left\"\n      },\n      \"content\": [\n        {\n          \"type\": \"text\",\n          \"text\": \"첫 문단: 합성 데이터로 저장을 확인합니다.\",\n          \"styles\": {\n            \"fontSize\": \"20\"\n          }\n        }\n      ],\n      \"children\": []\n    },\n    {\n      \"id\": \"d7d354a7-5019-4152-a4d8-0d7bf19fd8eb\",\n      \"type\": \"paragraph\",\n      \"props\": {\n        \"backgroundColor\": \"default\",\n        \"textColor\": \"default\",\n        \"textAlignment\": \"left\"\n      },\n      \"content\": [\n        {\n          \"type\": \"text\",\n          \"text\": \"셋째 문단: AI 부분 승인을 확인합니다.\",\n          \"styles\": {\n            \"fontSize\": \"20\"\n          }\n        }\n      ],\n      \"children\": []\n    }\n  ]\n}",
+    "history.jsonl": "{\"at\":\"2026-11-02T08:52:23.904Z\",\"actor\":\"human-editor\",\"operation\":\"document.save\",\"revision\":2,\"blockId\":null,\"transactionId\":\"67a33713-14b2-4152-9a93-9f1dc3ead8e2\"}\n{\"at\":\"2026-11-02T08:54:28.524Z\",\"actor\":\"human-editor\",\"operation\":\"document.save\",\"revision\":3,\"blockId\":null,\"transactionId\":\"28fda691-c0ba-4feb-9807-5ed1ed3bc4a2\"}\n{\"at\":\"2026-11-02T08:54:29.661Z\",\"actor\":\"human-editor\",\"operation\":\"document.save\",\"revision\":4,\"blockId\":null,\"transactionId\":\"56faa554-3f02-43c3-bfbd-c533fe8c4721\"}\n{\"at\":\"2026-11-02T08:54:31.607Z\",\"actor\":\"human-editor\",\"operation\":\"document.save\",\"revision\":5,\"blockId\":null,\"transactionId\":\"244066b9-4235-4756-91a8-c8063f1ec432\"}\n{\"at\":\"2026-11-02T08:57:38.756Z\",\"actor\":\"human-editor\",\"operation\":\"document.save\",\"revision\":6,\"blockId\":null,\"transactionId\":\"11945432-6970-4592-b88d-683cdb218cfd\"}\n"
+  }
+}

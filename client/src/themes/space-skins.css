@@ -1,0 +1,25 @@
+/* Exact texture tiles from the final HTML. Decorative surfaces only. */
+ .phase2-ai-panel[data-skin="desk"] .phase2-ai-body {
+  --skin-fg:#2D2924;--skin-rule:#9C826244;
+  background-color:#DCC9AB;
+  background-image:linear-gradient(160deg,rgba(255,255,255,.15),rgba(82,56,34,.05)),url('./textures/desk.jpg');
+  background-size:cover,384px 384px;
+}
+ .phase2-ai-panel[data-skin="chalk"] .phase2-ai-body {
+  --skin-fg:#F6F9F4;--skin-rule:#FFFFFF55;
+  background-color:#1E493D;
+  background-image:linear-gradient(155deg,rgba(11,42,28,.03),rgba(5,26,19,.28)),url('./textures/chalk.jpg');
+  background-size:cover,384px 384px;
+}
+ .phase2-ai-panel[data-skin="cafe"] .phase2-ai-body {
+  --skin-fg:#28221E;--skin-rule:#806B594A;
+  background-color:#BFA38B;
+  background-image:linear-gradient(145deg,rgba(255,247,233,.13),rgba(97,62,33,.08)),url('./textures/cafe.jpg');
+  background-size:cover,384px 384px;
+}
+ .phase2-ai-panel[data-skin="concrete"] .phase2-ai-body {
+  --skin-fg:#303331;--skin-rule:#66706A4D;
+  background-color:#CDCFCC;
+  background-image:linear-gradient(140deg,rgba(255,255,255,.18),rgba(86,95,90,.07)),url('./textures/concrete.jpg');
+  background-size:cover,384px 384px;
+}
